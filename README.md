@@ -10,5 +10,4 @@ https://pythonprogramming.net/facial-recognition-python/
 ![img](img/2.jpg)<br>
 # Who Made This Code?
 https://pythonprogramming.net<br>
-# Owner:
-Peyxw
+
