@@ -8,6 +8,5 @@ https://pythonprogramming.net/facial-recognition-python/
 # İmages
 ![img](img/1.jpg)<br>
 ![img](img/2.jpg)<br>
-# Who Made This Code?
-https://pythonprogramming.net<br>
+
 
